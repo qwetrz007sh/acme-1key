@@ -13,15 +13,16 @@ wget -N --no-check-certificate https://raw.githubusercontents.com/tpe28/acme-1ke
 
 快捷方式 `bash acme1key.sh`
 
-说明文档：https://owo.misaka.rest/acme-1key/
+说明文档：~~https://owo.misaka.rest/acme-1key/~~ *已失效*  
+*请通过 https://web.archive.org/web/20220703133405/https://owo.misaka.rest/acme-1key/ 浏览* 
 
 ## 赞助我们
 
 ![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
 
-## 交流群
-[Telegram](https://t.me/misakanetcn)
-
+## ~~交流群~~ 墓碑
+~~[Telegram] (https://t.me/misakanetcn)~~  
+[Telegram Channel](https://t.me/misakano)
 ## 关于脚本被不要脸的YouTuber抄的经过
 
 我在2021年12月份发布本脚本，初衷是因为需要帮助大家更容易地申请证书。由于GitHub项目是开源的。故代码被知名YouTuber甬哥侃侃侃抄去了。我个人认为抄不要紧，但是在其代码加密，并在注释上喷原作的行为实在是太不友好了。既违反了GPL 3.0开源协议，而且又自己害得自己招受不必要的麻烦，何必呢？
